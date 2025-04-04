@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "JellyJelly - Open Source Video Chat",
+  title: "jellyjelly.dev",
   description: "Join us in revolutionizing social media through open-source collaboration. Together, we're building the future of video chat.",
 };
 
